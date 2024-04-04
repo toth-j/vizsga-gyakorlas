@@ -60,7 +60,7 @@ Egészítse ki az App komponenst úgy, hogy meg lehessen adni egy könyv címét
 Legyen egy gomb, amelyre rákattintva megpróbál létrehozni egy új példányt a Konyv osztályból!
 Hiba esetén írjon ki egy hibaüzenetet!
 
-Ha sikerül létrehozni az új példányt, akkor írja ki a konzolra a címét és az SIBN számát, majd törölje a beviteli mezőket, és a korábbi hibaüzenetet (ha van)!
+Ha sikerül létrehozni az új példányt, akkor írja ki a konzolra a címét és az ISBN számát, majd törölje a beviteli mezőket, és a korábbi hibaüzenetet (ha van)!
 
 ## 6. feladat
 
