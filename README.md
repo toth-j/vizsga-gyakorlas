@@ -7,7 +7,7 @@
 * Ebben a másolatban dolgozzon, és a módosításokat töltse fel a GitHub-ra!
 * A végén a GitHub repository címét adja be!
 
-## ## 1. feladat
+## 1. feladat
 
 Jelenítse meg a *feladat1-tartalom.txt* fájlban kapott szöveget az alkalmazásban úgy, hogy a tesztek lefussanak!
 
