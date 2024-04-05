@@ -17,8 +17,6 @@ A teljes szöveg talpatlan betűkkel jelenjen meg, a teljes szélesség 80%-át 
 
 A láblécben helyezze el a „Készítette:” szöveget és utána írja be a saját nevét! A lábléc szövege legyen középre igazítva, és fölötte legyen 2 alapértelmezett betűméretnyi margó!
 
-![Minta2a](minta2a.jpg)
-
 ## 2. feladat
 
 Jelenítse meg a *feladat2-tartalom.txt* fájlban kapott szöveget az alkalmazásban úgy, hogy a tesztek lefussanak!
@@ -29,6 +27,8 @@ Az alsó rész, ahol az adatokat lehet bevinni, a teljes szélesség 75%-át fog
 Az adatokat kontrollált mezőkben lehessen beírni! A mezők adatait egy objektumban tárolja, és a módosításokat egy közös függvény kezelje!
 
 Az Elküld gomb megnyomásakor írja ki az adatokat a konzolra!
+
+![Minta2a](minta2a.jpg)
 
 ## 3. feladat
 
