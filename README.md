@@ -21,7 +21,7 @@ A láblécben helyezze el a „Készítette:” szöveget és utána írja be a 
 
 Jelenítse meg a *feladat2-tartalom.txt* fájlban kapott szöveget az alkalmazásban úgy, hogy a tesztek lefussanak!
 
-Közepes és nagyobb képernyőn a hírességek ehymás mellett, kisebb képernyőn a egymás alatt jelenjenek meg!
+Közepes és nagyobb képernyőn a hírességek egymás mellett, kisebb képernyőn a egymás alatt jelenjenek meg!
 
 Az alsó rész, ahol az adatokat lehet bevinni, a teljes szélesség 75%-át foglalja el, és vízszintesen középre legyen igazítva! A link mezőben csak hivatkozást fogadjon el!
 Az adatokat kontrollált mezőkben lehessen beírni! A mezők adatait egy objektumban tárolja, és a módosításokat egy közös függvény kezelje!
